@@ -9,21 +9,21 @@ int main()
     while (t--)
     {
         //test case 1
-        // unordered_map<char, int> tr = {
-        //     {'A', 2000},
-        //     {'B', 800},
-        //     {'C', 1200},
-        //     {'D', 1000},
-        //     {'E', 500},
-        //     {'F', 1600},
-        //     {'G', 900},
-        // };
-        //test case 2
         unordered_map<char, int> tr = {
-            {'A', 1000},
-            {'B', 500},
-            {'C', 700}
+            {'A', 2000},
+            {'B', 800},
+            {'C', 1200},
+            {'D', 1000},
+            {'E', 500},
+            {'F', 1600},
+            {'G', 900},
         };
+        //test case 2
+        // unordered_map<char, int> tr = {
+        //     {'A', 1000},
+        //     {'B', 500},
+        //     {'C', 700}
+        // };
         int sum = 0;
         for (const auto &pair : tr)
         {
