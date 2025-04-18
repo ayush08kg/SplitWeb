@@ -67,7 +67,7 @@ function Hero() {
       >
         <div className="text-center mb-10">
           <h1 className="text-4xl sm:text-5xl font-extrabold text-white drop-shadow-md tracking-tight">
-          HisabHawk
+          HisaabHawk
           </h1>
           <p className="mt-4 text-lg sm:text-xl text-white/90">
             Built for friends. Backed by{" "}
